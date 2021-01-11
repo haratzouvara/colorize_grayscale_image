@@ -1,1 +1,3 @@
-# colorize_grayscale_image
+### Color transfer to grayscale images
+
+This repo is an implementation of 
