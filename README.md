@@ -5,3 +5,10 @@ This repo is an implementation of "A novel coloring framework for grayscale imag
 #### Reference:
 
 I. F. Jafar and G. M. AL Sukkar, "A novel coloring framework for grayscale images," 2010 International Conference on Multimedia Computing and Information Technology (MCIT), Sharjah, 2010, pp. 73-76, doi: 10.1109/MCIT.2010.5444849.
+
+#### Example 
+<p float="left">
+<img   src="images/color_1.jpg"  hspace="20" width="220" >  
+<img   src="images/gray_1.jpg"  width="220"> 
+<img   src="images/result_1.jpg"  width="220"> 
+</p>
