@@ -14,7 +14,7 @@ I. F. Jafar and G. M. AL Sukkar, "A novel coloring framework for grayscale image
 </p>
 
 <p float="left">
-<img   src="images/color_2.jpg"  hspace="20" width="220" >  
+<img   src="images/color_2.jpg"  hspace="20" height="400" >  
 <img   src="images/gray_2.jpg"  width="220"> 
 <img   src="images/result_2.jpg"  width="220"> 
 </p>
